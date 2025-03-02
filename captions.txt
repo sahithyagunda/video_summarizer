@@ -1,0 +1,10 @@
+selected_keyframes\keyframe_0.jpg: a screen shot of a map with a red marker
+selected_keyframes\keyframe_1.jpg: a person holding a phone with a map on it
+selected_keyframes\keyframe_2.jpg: a screen shot of a man and woman riding bikes
+selected_keyframes\keyframe_3.jpg: a website with a picture of people riding bikes
+selected_keyframes\keyframe_4.jpg: a screen shot of a person riding a bike
+selected_keyframes\keyframe_5.jpg: a person holding a phone with a map on it
+selected_keyframes\keyframe_6.jpg: a screen shot of a website with a map and a person on a bike
+selected_keyframes\keyframe_7.jpg: a website with a picture of a person riding a bike
+selected_keyframes\keyframe_8.jpg: a screenshote website with a map and location
+selected_keyframes\keyframe_9.jpg: cycle cycle cycle cycle cycle cycle cycle cycle cycle cycle cycle cycle cycle cycle cycle cycle cycle cycle cycle cycle
